@@ -1,0 +1,20 @@
+false
+//This is for my grades
+//Number of Programs starting at 0 (max 29)
+17
+//Percentages
+.95 .87 .69 .63 .97 .87 1.0 .97 1.0 .83
+.91 .85 .92 .86 .80 1.0 .99 .98
+//Number of Practicums (max 10)
+6
+//Percentages
+.97 .82 .76 .49 .66 .54
+//Group Project
+0.0
+//number of exams (max 2)
+1
+//Percentages
+.84 
+//number of finals (max 2)
+0
+//Percentages

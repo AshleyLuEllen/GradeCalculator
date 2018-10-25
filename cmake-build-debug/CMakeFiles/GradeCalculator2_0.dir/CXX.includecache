@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ashleylucouch/Desktop/GradeCalculator2.0/Calculator.h
+fstream
+-
+
+/Users/ashleylucouch/Desktop/GradeCalculator2.0/main.cpp
+iostream
+-
+array
+-
+fstream
+-
+string
+-
+Calculator.h
+/Users/ashleylucouch/Desktop/GradeCalculator2.0/Calculator.h
+
